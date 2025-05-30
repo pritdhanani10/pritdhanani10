@@ -65,7 +65,7 @@ Passionate about building scalable applications and exploring new technologies!
 ## 📈 LeetCode Stats
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/Prit_Dhanani)?theme=dark&font=Cabin&ext=contest" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/Prit_Dhanani?theme=dark&font=Cabin&ext=contest" alt="LeetCode Stats" />
 </div>
 
 
