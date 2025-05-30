@@ -1,8 +1,6 @@
-# Hi there, I'm YASH FADADU 👋
+# Hi there, I'm Prit Dhanani 👋
 
-<div align="center">
-  <img src="Banner image.png" width="100%" height="auto" />
-</div>
+
 
 ![GitHub followers](https://github.com/pritdhanani10)
 ![Twitter Follow](https://x.com/Prit_Dhanani24)
