@@ -2,8 +2,8 @@
 
 
 
-![GitHub followers](https://github.com/pritdhanani10)
-![Twitter Follow](https://x.com/Prit_Dhanani24)
+![GitHub followers](https://img.shields.io/github/followers/pritdhanani10?label=Followers&style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/Prit_Dhanani24?style=social)
 
 ---
 
