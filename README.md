@@ -65,7 +65,7 @@ Passionate about building scalable applications and exploring new technologies!
 ## 📈 LeetCode Stats
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/1FzqCJSNeq)?theme=dark&font=Cabin&ext=contest" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/Prit_Dhanani)?theme=dark&font=Cabin&ext=contest" alt="LeetCode Stats" />
 </div>
 
 
@@ -84,9 +84,7 @@ Passionate about building scalable applications and exploring new technologies!
   <a href="https://leetcode.com/u/1FzqCJSNeq/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
-  <a href="https://x.com/Prit_Dhanani24">
-    <img src="https://x.com/Prit_Dhanani24?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
+  
 </div>
 
 ---
