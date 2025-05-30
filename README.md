@@ -84,7 +84,7 @@ Passionate about building scalable applications and exploring new technologies!
   <a href="https://leetcode.com/u/1FzqCJSNeq/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
-  <a href="https://x.com/yash_fadadu_">
+  <a href="https://x.com/Prit_Dhanani24">
     <img src="https://x.com/Prit_Dhanani24?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
 </div>
