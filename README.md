@@ -1,8 +1,5 @@
 # Hi there, I'm Prit Dhanani 👋
 
-![GitHub followers](https://img.shields.io/github/followers/pritdhanani10?label=Followers&style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/Prit_Dhanani24?style=social)
-
 ---
 
 ## 🚀 About Me  
@@ -37,9 +34,9 @@ Passionate about building scalable applications and exploring new technologies!
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=pritdhanani10&theme=monokai-metallian&hide_border=true&short_numbers=true" width="50%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pritdhanani10&theme=monokai-metallian&hide_border=true" width="50%"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=pritdhanani10&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=3600&custom_title=Prit%20Dhanani%27s%20GitHub%20Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=pritdhanani10&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pritdhanani10&theme=tokyonight" width="98%" alt="Profile Summary" />
 
@@ -70,22 +67,27 @@ Passionate about building scalable applications and exploring new technologies!
 <div align="center">
 
 <a href="mailto:pritdhanani73@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Gmail" />
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/prit-dhanani-0b8405238/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" />
 </a>
-
-<a href="https://leetcode.com/Prit_Dhanani/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://twitter.com/Prit_Dhanani24" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <img src="https://skillicons.dev/icons?i=twitter" width="40" alt="Twitter" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/pritdhanani10" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub" />
 </a>
 
 </div>
+
+
 
 ---
 
