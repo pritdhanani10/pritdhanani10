@@ -1,94 +1,43 @@
-# Hi there, I'm Prit Dhanani 👋
-
----
-
-## 🚀 About Me  
-- 🔭 I’m currently working on **AI/ML Algorithms**  
-- 🌱 I’m currently learning **Machine Learning, Cloud Computing, and Blockchain**  
-- 💬 Ask me about **Java, C++, Python, Javascript, and Coding Stuff**  
-- 🎯 Currently building **AI-driven Quizz Models**  
-- ⚡ Fun fact: **I can DO this ALL DAY! 😆**  
-
----
-Passionate about building scalable applications and exploring new technologies!
-
----
-
-## 🛠️ My Tech Stack  
-
-### 🌟 Main Skills  
-#### 🚀 Programming Languages  
-[![Languages](https://skillicons.dev/icons?i=python,java,javascript,c,typescript,dart)](https://skillicons.dev)  
-
-#### 🖥️ Frameworks & Technologies  
-[![Tech Stack](https://skillicons.dev/icons?i=nodejs,flutter,androidstudio,apple)](https://skillicons.dev)  
-
-#### 🗄️ Databases & Cloud  
-[![Databases](https://skillicons.dev/icons?i=mysql,postgres,firebase,mongodb)](https://skillicons.dev)  
-
-💡 *Always learning and evolving!* 🚀
-
----
-
-## 📊 GitHub Stats & Activity
-
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pritdhanani10&theme=monokai-metallian&hide_border=true" width="50%"/>
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,31&height=200&section=header&text=Prit%20Dhanani&fontSize=42&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=pritdhanani10&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+<!-- Dynamic Animated Typing Subtitle -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer+%26+Researcher;Full-Stack+%26+Mobile+Developer;Cloud+%26+Distributed+Systems;Passionate+Problem+Solver" alt="Typing SVG" />
+</a>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pritdhanani10&theme=tokyonight" width="98%" alt="Profile Summary" />
+<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pritdhanani10&theme=tokyo-night&hide_border=true&area=true&custom_title=🔥%20My%20GitHub%20Contribution%20Graph" width="98%" alt="Contribution Graph" />
+<!-- Profile Views & Social Badges -->
+<p align="center">
+  <a href="https://linkedin.com/in/prit-dhanani-0b8405238/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/Prit_Dhanani24" target="_blank">
+    <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+  </a>
+  &nbsp;
+  <a href="mailto:pritdhanani73@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=pritdhanani10&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+### 💫 About Me
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pritdhanani10&theme=algolia&no-frame=true&column=7&margin-w=10" alt="GitHub Trophies" />
-</div>
-
----
-
-## 📈 LeetCode Stats
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/Prit_Dhanani?theme=dark&font=Cabin&ext=contest" alt="LeetCode Stats" />
-</div>
-
----
-
-## 📫 Connect with Me  
-
-<div align="center">
-
-<a href="mailto:pritdhanani73@gmail.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Gmail" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/prit-dhanani-0b8405238/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://twitter.com/Prit_Dhanani24" target="_blank">
-  <img src="https://skillicons.dev/icons?i=twitter" width="40" alt="Twitter" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/pritdhanani10" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub" />
-</a>
-
-</div>
-
-
-
----
-
-💡 *Exploring the intersection of AI, Web3, and Open Source. Let's build something amazing!* 🚀
+```yaml
+name: Prit Dhanani
+role: AI/ML Engineer & Full-Stack Developer
+interests: [Machine Learning, Cloud Computing, Blockchain, Problem Solving]
+currently_building: AI-driven Quiz & Assessment Models
+learning_focus: Deep Learning, Cloud Architecture & Web3 Systems
+philosophy: "Building scalable, intelligent systems to solve real-world challenges."
+fun_fact: "I can do this all day! ⚡"
