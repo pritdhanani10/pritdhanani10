@@ -5,7 +5,7 @@
 
 <!-- Dynamic Animated Typing Subtitle -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer+%26+Researcher;Full-Stack+%26+Mobile+Developer;Cloud+%26+Distributed+Systems;Passionate+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=.NET+%26+Backend+Developer;Flutter+Cross-Platform+App+Developer;Database+Administrator+%26+Architect;Passionate+Problem+Solver" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -35,9 +35,11 @@
 
 ```yaml
 name: Prit Dhanani
-role: AI/ML Engineer & Full-Stack Developer
-interests: [Machine Learning, Cloud Computing, Blockchain, Problem Solving]
-currently_building: AI-driven Quiz & Assessment Models
-learning_focus: Deep Learning, Cloud Architecture & Web3 Systems
-philosophy: "Building scalable, intelligent systems to solve real-world challenges."
+roles:
+  - .NET Developer
+  - Flutter Cross-Platform App Developer
+  - Database Administrator
+interests: [Backend Engineering, Mobile App Architecture, Database Tuning, Cloud Systems]
+learning_focus: Enterprise .NET Architecture, Advanced Flutter State Management & DB Optimization
+philosophy: "Building scalable backend architectures, seamless mobile experiences, and resilient databases."
 fun_fact: "I can do this all day! ⚡"
